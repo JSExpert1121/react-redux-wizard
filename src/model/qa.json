@@ -1,0 +1,277 @@
+[  
+   {  
+      "id":"L0",
+      "type":"question",
+      "text":"Question 1?",
+      "answers":[
+         {  
+            "id":"L1.0",
+            "text":"Answer 1",
+            "action":"alert()"
+         },
+         {  
+            "id":"L1.1",
+            "text":"Answer 2",
+            "action":"alert()"
+         },
+         {  
+            "id":"L1.2",
+            "text":"Answer 3",
+            "action":"alert()"
+         }
+      ]
+   },
+   {  
+      "id":"L1.0",
+      "type":"question",
+      "text":"Question 2?",
+      "answers":[  
+         {  
+            "id":"L2.0.0",
+            "text":"Answer 4",
+            "action":"alert()"
+         },
+         {  
+            "id":"L2.0.1",
+            "text":"Answer 5",
+            "action":"alert()"
+         },
+         {  
+            "id":"L2.0.2",
+            "text":"Answer 6",
+            "action":"alert()"
+         },
+         {  
+            "id":"L2.0.3",
+            "text":"Answer 7",
+            "action":"alert()"
+         },
+         {  
+            "id":"L2.0.4",
+            "text":"Answer 8",
+            "action":"alert()"
+         },
+         {  
+            "id":"L2.0.5",
+            "text":"Answer 9",
+            "action":"alert()"
+         }
+      ]
+   },
+   {
+      "id":"L1.1",
+      "type":"statement",
+      "text":"Statement 1",
+      "action":"alert()"
+   },
+   {
+      "id":"L1.2",
+      "type":"statement",
+      "text":"Statement 2",
+      "action":"alert()"
+   },
+   {  
+      "id":"L2.0.0",
+      "type":"question",
+      "text":"Question 3?",
+      "answers":[  
+         {  
+            "id":"L3.0.0",
+            "text":"Living room",
+            "action":"alert()"
+         },
+         {  
+            "id":"L3.0.1",
+            "text":"Kitchen",
+            "action":"alert()"
+         },
+         {  
+            "id":"L3.0.2",
+            "text":"Bedroom No. 1",
+            "action":"alert()"
+         },
+         {  
+            "id":"L3.0.3",
+            "text":"Bedroom No. 2",
+            "action":"alert()"
+         },
+         {  
+            "id":"L3.0.4",
+            "text":"Basement",
+            "action":"alert()"
+         }
+      ]
+   },
+   {  
+      "id":"L2.0.1",
+      "type":"question",
+      "text":"Question 4?",
+      "answers":[  
+         {  
+            "id":"L3.1.0",
+            "text":"Living room",
+            "action":"alert()"
+         },
+         {  
+            "id":"L3.1.1",
+            "text":"Kitchen",
+            "action":"alert()"
+         },
+         {  
+            "id":"L3.1.2",
+            "text":"Bedroom No. 1",
+            "action":"alert()"
+         },
+         {  
+            "id":"L3.1.3",
+            "text":"Bedroom No. 2",
+            "action":"alert()"
+         },
+         {  
+            "id":"L3.1.4",
+            "text":"Basement",
+            "action":"alert()"
+         }
+      ]
+   },
+   {  
+      "id":"L2.0.2",
+      "type":"statement",
+      "text":"Statement 3",
+      "action":"alert()"
+   },
+   {  
+      "id":"L2.0.3",
+      "type":"statement",
+      "text":"Statement 4",
+      "action":"alert()"
+   },
+   {  
+      "id":"L2.0.4",
+      "type":"statement",
+      "text":"Statement 5",
+      "action":"alert()"
+   },
+   {  
+      "id":"L2.0.5",
+      "type":"statement",
+      "text":"Statement 6",
+      "action":"alert()"
+   },
+   {  
+      "id":"L3.0.0",
+      "type":"question",
+      "text":"Question 5?",
+      "answers":[  
+         {  
+            "id":"L4.0.0",
+            "text":"Yes",
+            "action":"alert()"
+         }
+      ],
+      "cancelBtnText":"No",
+      "isReplaced":"true"
+   },
+   {  
+      "id":"L3.0.1",
+      "type":"question",
+      "text":"Question 6?",
+      "answers":[  
+         {  
+            "id":"L4.0.1",
+            "text":"Yes",
+            "action":"alert()"
+         }
+      ],
+      "cancelBtnText":"No",
+      "isReplaced":"true"
+   },
+   {  
+      "id":"L3.0.2",
+      "type":"statement",
+      "text":"Statement 7",
+      "action":"alert()"
+   },
+   {  
+      "id":"L3.0.3",
+      "type":"statement",
+      "text":"Statement 8",
+      "action":"alert()"
+   },
+   {  
+      "id":"L3.0.4",
+      "type":"statement",
+      "text":"Statement 9",
+      "action":"alert()"
+   },
+   {  
+      "id":"L3.1.0",
+      "type":"question",
+      "text":"Question 7?",
+      "answers":[  
+         {  
+            "id":"L4.1.0",
+            "text":"Yes",
+            "action":"alert()"
+         }
+      ],
+      "cancelBtnText":"No",
+      "isReplaced":"true"
+   },
+   {  
+      "id":"L3.1.1",
+      "type":"question",
+      "text":"Question 8?",
+      "answers":[  
+         {  
+            "id":"L4.1.1",
+            "text":"Yes",
+            "action":"alert()"
+         }
+      ],
+      "cancelBtnText":"No",
+      "isReplaced":"true"
+   },
+   {  
+      "id":"L3.1.2",
+      "type":"statement",
+      "text":"Statement 10",
+      "action":"alert()"
+   },
+   {  
+      "id":"L3.1.3",
+      "type":"statement",
+      "text":"Statement 11",
+      "action":"alert()"
+   },
+   {  
+      "id":"L3.1.4",
+      "type":"statement",
+      "text":"Statement 12",
+      "action":"alert()"
+   },
+   {  
+      "id":"L4.0.0",
+      "type":"statement",
+      "text":"Statement 13",
+      "action":"alert()"
+   },
+   {  
+      "id":"L4.0.1",
+      "type":"statement",
+      "text":"Statement 14",
+      "action":"alert()"
+   },
+   {  
+      "id":"L4.1.0",
+      "type":"statement",
+      "text":"Statement 15",
+      "action":"alert()"
+   },
+   {  
+      "id":"L4.1.1",
+      "type":"statement",
+      "text":"Statement 16",
+      "action":"alert()"
+   }
+]

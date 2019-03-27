@@ -1,0 +1,18 @@
+
+
+.well-center {
+    width: 60%;
+    margin: auto;
+    min-width: 30em;
+}
+
+.label-question {
+    background-color: #95a5a6;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.cursor-hand {
+    cursor: pointer;
+}
+
